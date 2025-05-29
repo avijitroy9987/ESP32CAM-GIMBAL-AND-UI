@@ -62,7 +62,7 @@ This project provides a complete web-based camera monitoring and control solutio
 
 ## 🧑‍💻 Author
 
-Created by [Your Name Here]
+Created by [MADAN R]
 
 ## 🪪 License
 
